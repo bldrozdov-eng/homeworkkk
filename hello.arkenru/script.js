@@ -1,2 +1,3 @@
-console.log('nuhay daun')
-alert('жми урод')
+console.log('шкирпитки')
+alert('нажми ок
+      ')
